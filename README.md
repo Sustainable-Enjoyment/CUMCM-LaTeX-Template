@@ -35,6 +35,8 @@ A modern, powerful, and highly customizable LaTeX template for the China Undergr
 ├── cumcmthesis.cls         # 模板的核心文档类文件
 ├── template.tex            # 论文模板的主文件
 ├── ref.bib                 # 参考文献数据库文件
+├──assets
+│   └── p1.png            # 预览图
 ├── figures/                # 存放图片的文件夹
 │   └── example.eps       # 示例图片
 └── code/                   # 存放代码的文件夹
@@ -89,7 +91,7 @@ A modern, powerful, and highly customizable LaTeX template for the China Undergr
 
 ## 效果预览
 
-
+![模板效果预览](assets/p1.png)
 
 ## 作者 (Author)
 
@@ -98,8 +100,6 @@ A modern, powerful, and highly customizable LaTeX template for the China Undergr
 ## 许可协议 (License)
 
 本模板采用 MIT 许可协议。详情请见 [LICENSE](LICENSE) 文件。
-
-这意味着你可以自由地使用、修改、分发本模板，只需在你的项目中包含原始的版权和许可声明即可。
 
 ---
 *预祝所有参赛者在比赛中取得优异成绩！*
