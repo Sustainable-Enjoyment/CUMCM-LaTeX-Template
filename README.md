@@ -10,7 +10,9 @@ A modern, powerful, and highly customizable LaTeX template for the China Undergr
 
 ## 简介 (Introduction)
 
-本模板旨在为参加全国大学生数学建模竞赛的同学提供一个美观、规范、易于上手的 LaTeX 论文写作框架。它基于 `article` 类，使用 `xelatex` 编译，原生支持中文，并集成了大量在数学建模中常用的宏包和自定义环境，让你可以从繁杂的格式调整中解放出来，专注于论文内容的撰写。
+本模板旨在为参加全国大学生数学建模竞赛的同学提供一个美观、规范、易于上手的 LaTeX 论文写作框架。
+
+它基于 `article` 类，使用 `xelatex` 编译，原生支持中文，并集成了大量在数学建模中常用的宏包和自定义环境，是作者去年调试并最终在国赛中获得国一的论文模板。
 
 ## 主要特性 (Features)
 
@@ -87,7 +89,7 @@ A modern, powerful, and highly customizable LaTeX template for the China Undergr
 
 ## 效果预览
 
-（建议在此处放置一张由模板生成的 PDF 首页截图）
+
 
 ## 作者 (Author)
 
