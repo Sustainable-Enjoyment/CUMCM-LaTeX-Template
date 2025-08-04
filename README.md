@@ -64,7 +64,7 @@ A modern, powerful, and highly customizable LaTeX template for the China Undergr
 `\documentclass[option1,option2]{cumcmthesis}`
 
 可用的选项包括：
-- `withoutpreface`: **草稿模式**。不生成竞赛要求的“承诺书”和“编号专用页”，直接从标题摘要页开始，方便快速编译和预览内容。
+- `withoutpreface`: **草稿模式**。不生成竞赛要求的“承诺书”和“编号专用页”，直接从标题摘要页开始，方便快速编译和预览内容。（目前国赛的要求似乎就是这个？反正我2024年的国一论文就是这样的，感兴趣的话可以在我主页找到）
 - `notoc`: **无目录模式**。完全禁用模板中的目录功能。
 - `bwprint`: **黑白打印模式**。将一些彩色元素（如超链接）转为黑白，适合打印。
 
