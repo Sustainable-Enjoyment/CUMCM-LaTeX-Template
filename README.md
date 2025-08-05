@@ -35,7 +35,7 @@ A modern, powerful, and highly customizable LaTeX template for the China Undergr
 ├── cumcmthesis.cls         # 模板的核心文档类文件
 ├── template.tex            # 论文模板的主文件
 ├── ref.bib                 # 参考文献数据库文件
-├──assets
+├──assets/
 │   └── p1.png            # 预览图
 ├── figures/                # 存放图片的文件夹
 │   └── example.eps       # 示例图片
