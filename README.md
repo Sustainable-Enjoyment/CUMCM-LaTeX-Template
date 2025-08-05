@@ -84,7 +84,7 @@ A modern, powerful, and highly customizable LaTeX template for the China Undergr
 
 ```latex
 \title{这里是你的论文标题}
-\author{模板作者：你的名字}
+\author{名字}
 ```
 
 然后在正文中相应的位置填写你的摘要、关键词、正文内容等。
